@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+
+    "name": "Countdown Timer",
+    "description": "This os a chrome extension For Event timer",
+    "version": "1.0",
+
+    "browder_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+
+}
