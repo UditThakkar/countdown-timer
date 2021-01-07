@@ -18,14 +18,14 @@ var x = setInterval(function () {
   document.getElementById("demo-min").innerHTML = minutes + "m " ;
 
 
-  document.getElementById("demo-sec").innerHTML = seconds + "s ";
+  document.getElementById("demo-sec").innerHTML =  seconds + "s ";
 
 
 
 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "EXPIRED";
+    // document.getElementById("demo").innerHTML = "EXPIRED";
   }
 }, 1000);
     
