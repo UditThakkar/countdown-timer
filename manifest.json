@@ -5,7 +5,7 @@
     "description": "This os a chrome extension For Event timer",
     "version": "1.0",
 
-    "browder_action": {
+    "browser_action": {
         "default_icon": "icon.png",
         "default_popup": "popup.html"
     },
