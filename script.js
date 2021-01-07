@@ -25,7 +25,11 @@ var x = setInterval(function () {
 
   if (distance < 0) {
     clearInterval(x);
-    // document.getElementById("demo").innerHTML = "EXPIRED";
+    document.getElementById("demo-days").innerHTML = "EXPIRED";
+    document.getElementById("demo-hours").innerHTML = "EXPIRED";
+    document.getElementById("demo-min").innerHTML = "EXPIRED";
+    document.getElementById("demo-sec").innerHTML = "EXPIRED";
+
   }
 }, 1000);
     
