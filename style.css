@@ -7,7 +7,7 @@
     --red: #EF2F3C;
     --white: #F6F4F3;
     --green: #10B981;
-    --background: #3730A3;
+    --background: #93C5FD;
     --yellow: #F0A202;
     --font: 'Lato', sans-serif;
 }
@@ -70,22 +70,26 @@ body {
 
 .box-one {
     background-color: var(--red);
-    border-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 
 .box-two {
     background-color: var(--white);
-    border-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 
 .box-three {
     background-color: var(--green);
-    border-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 
 .box-four {
     background-color: var(--yellow);
-    border-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 
 .time-show div {
