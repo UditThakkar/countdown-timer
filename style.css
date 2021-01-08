@@ -70,26 +70,26 @@ body {
 
 .box-one {
     background-color: var(--red);
-    border-top-right-radius: 1rem;
-    border-bottom-right-radius: 1rem;
+    border-radius: 1rem;
+    
 }
 
 .box-two {
     background-color: var(--white);
-    border-top-right-radius: 1rem;
-    border-bottom-right-radius: 1rem;
+    border-radius: 1rem;
+    
 }
 
 .box-three {
     background-color: var(--green);
-    border-top-right-radius: 1rem;
-    border-bottom-right-radius: 1rem;
+    border-radius: 1rem;
+    
 }
 
 .box-four {
     background-color: var(--yellow);
-    border-top-right-radius: 1rem;
-    border-bottom-right-radius: 1rem;
+    border-radius: 1rem;
+    
 }
 
 .time-show div {
