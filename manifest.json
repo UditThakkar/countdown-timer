@@ -3,7 +3,7 @@
 
     "name": "Countdown Timer",
     "description": "This os a chrome extension For Event timer",
-    "version": "1.0",
+    "version": "2.0",
 
     "browser_action": {
         
